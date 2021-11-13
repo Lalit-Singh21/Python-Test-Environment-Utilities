@@ -33,6 +33,7 @@ if errorlevel 1 echo Python Installation failed.
 echo This Will Proceed with The Silent installation of cx_Oracle-5.1-10g.win32-py2 please do not turn off your computer
 echo.
 echo ++++++++++++++++++++++++++++++++++++++++++++++
+
 echo Step 2. Installing cx_Oracle-5.1-10g.win32-py2
 echo ++++++++++++++++++++++++++++++++++++++++++++++
 echo.
