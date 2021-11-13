@@ -1,0 +1,1 @@
+logman delete NFTPerfLog

@@ -1,0 +1,15 @@
+\Memory\Available MBytes
+\Memory\Page Reads/sec
+\Memory\Page Writes/sec
+\Memory\Pages Input/sec
+\Memory\Pages Output/sec
+\Memory\Pages/sec
+\Paging File(_Total)\% Usage
+\PhysicalDisk(*)\% Idle Time
+\PhysicalDisk(*)\Avg. Disk Read Queue Length
+\PhysicalDisk(*)\Avg. Disk Write Queue Length
+\Process(_Total)\Page File Bytes Peak
+\Processor(*)\% Processor Time
+\System\Processor Queue Length
+\Network Interface(*)\Bytes Received/sec
+\Network Interface(*)\Bytes Sent/sec
