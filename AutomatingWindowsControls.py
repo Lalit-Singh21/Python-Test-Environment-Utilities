@@ -1,4 +1,5 @@
 """Generic windows automation functions"""
+
 from pywinauto import win32defines, WindowNotFoundError
 import pywinauto
 import time
