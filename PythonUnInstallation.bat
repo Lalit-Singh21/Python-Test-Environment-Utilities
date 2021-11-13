@@ -59,3 +59,5 @@ echo Python environment Variables deleted successfully
 RD /S /Q C:\Python27
 
 PAUSE
+
+
