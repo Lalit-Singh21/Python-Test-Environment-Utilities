@@ -1,2 +1,0 @@
-logman start NFTPerfLog
-
