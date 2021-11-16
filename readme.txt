@@ -7,7 +7,7 @@ or               -->\\scriptdirectory\WinLogin_VNC.exe VMName
 
 2) Automatically revoked from REstart VM batch file with if below parameters are passed :
 
-c:\python27\python.exe %SCRIPT_DIR%\PythonUtilities.py RestartMachines -login "yes" -cw "close" -c "N:\Perforce\testing\MarkitWire_QTP\SupportApps\PythonUtilities\PyUtilities_Configuration.cfg"
+c:\python27\python.exe %SCRIPT_DIR%\PythonUtilities.py RestartMachines -login "yes" -cw "close" -c "N:\Perforce\PythonUtilities\PyUtilities_Configuration.cfg"
 
 Parameter help:
 
@@ -17,7 +17,7 @@ Parameter help:
 
 3) If called from Batch file only for login
 
-c:\python27\python.exe %SCRIPT_DIR%\PythonUtilities.py LoginMachines -cw "o" -c "N:\Perforce\testing\MarkitWire_QTP\SupportApps\PythonUtilities\PyUtilities_Configuration.cfg"
+c:\python27\python.exe %SCRIPT_DIR%\PythonUtilities.py LoginMachines -cw "o" -c "N:\Perforce\PythonUtilities\PyUtilities_Configuration.cfg"
 
 -cw "close": if want to close window after login (default value is close, if dont want to close window then provide any other string)
 
